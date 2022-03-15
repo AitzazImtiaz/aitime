@@ -6,7 +6,7 @@ setup(
     description = "Prints current time",
     author = "AitzazImtiaz",
     url = "https://github.com/AitzazImtiaz/aitime",
-    packages = ["ukraine"],
+    packages = ["aitime"],
     entry_points = {
         'console_scripts': [
             'aitime = aitime.__main__:main'
